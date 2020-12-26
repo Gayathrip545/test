@@ -190,6 +190,6 @@ function reset(){
   }
   console.log(localStorage["HighestScore"]);
   
-  score = 100;
+  score = 500;
   
 }
